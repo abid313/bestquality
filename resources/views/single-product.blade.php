@@ -57,10 +57,10 @@ https://templatemo.com/tm-571-hexashop
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
-                            <li class="scroll-to-section"><a href="index" class="active">Home</a></li>
-                            <li class="scroll-to-section"><a href="index">Men's</a></li>
-                            <li class="scroll-to-section"><a href="index">Women's</a></li>
-                            <li class="scroll-to-section"><a href="index">Kid's</a></li>
+                            <li class="scroll-to-section"><a href="/" class="active">Home</a></li>
+                            <li class="scroll-to-section"><a href="/">Men's</a></li>
+                            <li class="scroll-to-section"><a href="/">Women's</a></li>
+                            <li class="scroll-to-section"><a href="/">Kid's</a></li>
                             <li class="submenu">
                                 <a href="javascript:;">Pages</a>
                                 <ul>
