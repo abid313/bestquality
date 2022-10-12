@@ -9,8 +9,8 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>Hexashop - Contact Page</title>
-
+    <title>Contact Us</title>
+    <link rel="shortcut icon" type="image/jpg" href="image.jpg"/>
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
@@ -52,7 +52,7 @@ https://templatemo.com/tm-571-hexashop
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
                         <a href="/" class="logo">
-                            <img src="assets/images/logo.png">
+                            <img src="logo.png" width="195" height="59">
                         </a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
@@ -111,32 +111,9 @@ https://templatemo.com/tm-571-hexashop
                 </div>
                 <div class="col-lg-6">
                     <div class="section-heading">
-                        <h2>Say Hello. Don't Be Shy!</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <h2>Location Ofline Store</h2>
+                        <span>Jl. Petamburan RT5 No.8, RW.8, Petamburan, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10260</span>
                     </div>
-                    <form id="contact" action="" method="post">
-                        <div class="row">
-                          <div class="col-lg-6">
-                            <fieldset>
-                              <input name="name" type="text" id="name" placeholder="Your name" required="">
-                            </fieldset>
-                          </div>
-                          <div class="col-lg-6">
-                            <fieldset>
-                              <input name="email" type="text" id="email" placeholder="Your email" required="">
-                            </fieldset>
-                          </div>
-                          <div class="col-lg-12">
-                            <fieldset>
-                              <textarea name="message" rows="6" id="message" placeholder="Your message" required=""></textarea>
-                            </fieldset>
-                          </div>
-                          <div class="col-lg-12">
-                            <fieldset>
-                              <button type="submit" id="form-submit" class="main-dark-button"><i class="fa fa-paper-plane"></i></button>
-                          </div>
-                        </div>
-                      </form>
                 </div>
             </div>
         </div>
@@ -147,45 +124,19 @@ https://templatemo.com/tm-571-hexashop
     <div class="subscribe">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8">
-                    <div class="section-heading">
-                        <h2>By Subscribing To Our Newsletter You Can Get 30% Off</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
-                    </div>
-                    <form id="subscribe" action="" method="get">
-                        <div class="row">
-                          <div class="col-lg-5">
-                            <fieldset>
-                              <input name="name" type="text" id="name" placeholder="Your Name" required="">
-                            </fieldset>
-                          </div>
-                          <div class="col-lg-5">
-                            <fieldset>
-                              <input name="email" type="text" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your Email Address" required="">
-                            </fieldset>
-                          </div>
-                          <div class="col-lg-2">
-                            <fieldset>
-                              <button type="submit" id="form-submit" class="main-dark-button"><i class="fa fa-paper-plane"></i></button>
-                            </fieldset>
-                          </div>
-                        </div>
-                    </form>
-                </div>
-                <div class="col-lg-4">
+                <div class="col">
                     <div class="row">
                         <div class="col-6">
                             <ul>
-                                <li>Store Location:<br><span>Sunny Isles Beach, FL 33160, United States</span></li>
-                                <li>Phone:<br><span>010-020-0340</span></li>
-                                <li>Office Location:<br><span>North Miami Beach</span></li>
+                                <li>Store Location:<br><span>Jl. Petamburan RT5 No.8, RW.8, Petamburan, Kecamatan Tanah Abang</span></li>
+                                <li>Office Location:<br><span>Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta</span></li>
+                                <li>Work Hours:<br><span>07:30 AM - 9:30 PM Daily</span></li>
                             </ul>
                         </div>
                         <div class="col-6">
                             <ul>
-                                <li>Work Hours:<br><span>07:30 AM - 9:30 PM Daily</span></li>
-                                <li>Email:<br><span>info@company.com</span></li>
-                                <li>Social Media:<br><span><a href="#">Facebook</a>, <a href="#">Instagram</a>, <a href="#">Behance</a>, <a href="#">Linkedin</a></span></li>
+                                <li>Email:<br><span>Mam.cil.indonesia@gmail.com</span></li>
+                                <li>Social Media:<br><span><a href="https://www.tiktok.com/@bestquality.in?is_from_webapp=1&sender_device=pc">TikTok</a>, <a href="https://www.instagram.com/bestquality.in/">Instagram</a>, <a href="https://www.tokopedia.com/bestqualityy?utm_medium=Share&utm_campaign=Shop%20Share&utm_source=Desktop">tokopedia</a>, <a href="https://shopee.co.id/bestqualityy.in">Shopee</a></span></li>
                             </ul>
                         </div>
                     </div>
@@ -199,19 +150,18 @@ https://templatemo.com/tm-571-hexashop
     <footer>
         <div class="container">
             <div class="row">
-                <div class="col-lg-3">
+                <div class="col-lg-4">
                     <div class="first-item">
                         <div class="logo">
-                            <img src="assets/images/white-logo.png" alt="hexashop ecommerce templatemo">
+                            <img src="logo-putih.png" alt="bestquality.in" width="195" height="59">
                         </div>
                         <ul>
-                            <li><a href="#">16501 Collins Ave, Sunny Isles Beach, FL 33160, United States</a></li>
-                            <li><a href="#">hexashop@company.com</a></li>
-                            <li><a href="#">010-020-0340</a></li>
+                            <li><a href="#">Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta</a></li>
+                            <li><a href="#">Mam.cil.indonesia@gmail.com</a></li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-4">
                     <h4>Shopping &amp; Categories</h4>
                     <ul>
                         <li><a href="#">Men’s Shopping</a></li>
@@ -219,35 +169,18 @@ https://templatemo.com/tm-571-hexashop
                         <li><a href="#">Kid's Shopping</a></li>
                     </ul>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-4">
                     <h4>Useful Links</h4>
                     <ul>
-                        <li><a href="#">Homepage</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Help</a></li>
-                        <li><a href="#">Contact Us</a></li>
-                    </ul>
-                </div>
-                <div class="col-lg-3">
-                    <h4>Help &amp; Information</h4>
-                    <ul>
-                        <li><a href="#">Help</a></li>
-                        <li><a href="#">FAQ's</a></li>
-                        <li><a href="#">Shipping</a></li>
-                        <li><a href="#">Tracking ID</a></li>
+                        <li><a href="/">Homepage</a></li>
+                        <li><a href="about">About Us</a></li>
+                        <li><a href="products">Products</a></li>
+                        <li><a href="contact">Contact Us</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-12">
                     <div class="under-footer">
-                        <p>Copyright © 2022 HexaShop Co., Ltd. All Rights Reserved. 
-                        
-                        <br>Design: <a href="https://templatemo.com" target="_parent" title="free css templates">TemplateMo</a></p>
-                        <ul>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                        </ul>
+                        <p>Copyright © 2022 bestquality.in Co., Ltd. All Rights Reserved. 
                     </div>
                 </div>
             </div>
