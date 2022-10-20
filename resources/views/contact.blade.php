@@ -70,7 +70,6 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="contact">Contact Us</a></li>
                                 </ul>
                             </li>
-                            <li class="scroll-to-section"><a href="/">Explore</a></li>
                         </ul>        
                         <a class='menu-trigger'>
                             <span>Menu</span>
@@ -135,7 +134,7 @@ https://templatemo.com/tm-571-hexashop
                         <div class="col-6">
                             <ul>
                                 <li>Work Hours:<br><span>07:30 AM - 9:30 PM Daily</span></li>
-                                <li>Social Media:<br><span><a href="https://www.tiktok.com/@bestquality.in?is_from_webapp=1&sender_device=pc">TikTok</a>, <a href="https://www.instagram.com/bestquality.in/">Instagram</a>, <a href="https://www.tokopedia.com/bestqualityy?utm_medium=Share&utm_campaign=Shop%20Share&utm_source=Desktop">tokopedia</a>, <a href="https://shopee.co.id/bestqualityy.in">Shopee</a></span></li>
+                                <li>Social Media & Online Shop:<br><span><a href="https://www.tiktok.com/@bestquality.in?is_from_webapp=1&sender_device=pc">TikTok</a>, <a href="https://www.instagram.com/bestquality.in/">Instagram</a>, <a href="https://www.tokopedia.com/bestqualityy?utm_medium=Share&utm_campaign=Shop%20Share&utm_source=Desktop">tokopedia</a>, <a href="https://shopee.co.id/bestqualityy.in">Shopee</a></span></li>
                             </ul>
                         </div>
                     </div>

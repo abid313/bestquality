@@ -70,7 +70,6 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="contact">Contact Us</a></li>
                                 </ul>
                             </li>
-                            <li class="scroll-to-section"><a href="/">Explore</a></li>
                         </ul>        
                         <a class='menu-trigger'>
                             <span>Menu</span>
