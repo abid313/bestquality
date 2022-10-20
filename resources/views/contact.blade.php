@@ -58,9 +58,9 @@ https://templatemo.com/tm-571-hexashop
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
                             <li class="scroll-to-section"><a href="/" class="active">Home</a></li>
-                            <li class="scroll-to-section"><a href="/">Men's</a></li>
-                            <li class="scroll-to-section"><a href="/">Women's</a></li>
-                            <li class="scroll-to-section"><a href="/">Kid's</a></li>
+                            <li class="scroll-to-section"><a href="/">Ring</a></li>
+                            <li class="scroll-to-section"><a href="/">Necklace</a></li>
+                            <li class="scroll-to-section"><a href="/">Bracelet</a></li>
                             <li class="submenu">
                                 <a href="javascript:;">Pages</a>
                                 <ul>
@@ -90,7 +90,7 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-12">
                     <div class="inner-content">
                         <h2>Contact Us</h2>
-                        <span>Awesome, clean &amp; creative HTML5 Template</span>
+                        <!-- <span>Awesome, clean &amp; creative HTML5 Template</span> -->
                     </div>
                 </div>
             </div>
@@ -111,7 +111,7 @@ https://templatemo.com/tm-571-hexashop
                 </div>
                 <div class="col-lg-6">
                     <div class="section-heading">
-                        <h2>Location Ofline Store</h2>
+                        <h2>Location Offline Store</h2>
                         <span>Jl. Petamburan RT5 No.8, RW.8, Petamburan, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10260</span>
                     </div>
                 </div>
@@ -130,12 +130,11 @@ https://templatemo.com/tm-571-hexashop
                             <ul>
                                 <li>Store Location:<br><span>Jl. Petamburan RT5 No.8, RW.8, Petamburan, Kecamatan Tanah Abang</span></li>
                                 <li>Office Location:<br><span>Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta</span></li>
-                                <li>Work Hours:<br><span>07:30 AM - 9:30 PM Daily</span></li>
                             </ul>
                         </div>
                         <div class="col-6">
                             <ul>
-                                <li>Email:<br><span>Mam.cil.indonesia@gmail.com</span></li>
+                                <li>Work Hours:<br><span>07:30 AM - 9:30 PM Daily</span></li>
                                 <li>Social Media:<br><span><a href="https://www.tiktok.com/@bestquality.in?is_from_webapp=1&sender_device=pc">TikTok</a>, <a href="https://www.instagram.com/bestquality.in/">Instagram</a>, <a href="https://www.tokopedia.com/bestqualityy?utm_medium=Share&utm_campaign=Shop%20Share&utm_source=Desktop">tokopedia</a>, <a href="https://shopee.co.id/bestqualityy.in">Shopee</a></span></li>
                             </ul>
                         </div>
@@ -164,9 +163,9 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-4">
                     <h4>Shopping &amp; Categories</h4>
                     <ul>
-                        <li><a href="#">Men’s Shopping</a></li>
-                        <li><a href="#">Women’s Shopping</a></li>
-                        <li><a href="#">Kid's Shopping</a></li>
+                        <li><a href="#">Ring Shopping</a></li>
+                        <li><a href="#">Necklace Shopping</a></li>
+                        <li><a href="#">Bracelet Shopping</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-4">
