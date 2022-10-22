@@ -58,20 +58,19 @@ https://templatemo.com/tm-571-hexashop
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
-                            <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
-                            <li class="scroll-to-section"><a href="#men">Ring</a></li>
-                            <li class="scroll-to-section"><a href="#women">Necklace</a></li>
-                            <li class="scroll-to-section"><a href="#kids">Bracelet</a></li>
+                            <li class="scroll-to-section"><a href="/" class="active">Home</a></li>
+                            <li class="scroll-to-section"><a href="/">Rings</a></li>
+                            <li class="scroll-to-section"><a href="/">Necklaces</a></li>
+                            <li class="scroll-to-section"><a href="/">Bracelets</a></li>
+                            <li class="scroll-to-section"><a href="product">Products</a></li>
                             <li class="submenu">
-                                <a href="javascript:;">Pages</a>
+                                <a href="javascript:;">Other</a>
                                 <ul>
                                     <li><a href="about">About Us</a></li>
-                                    <li><a href="products">Products</a></li>
-                                    <li><a href="single-product">Single Product</a></li>
                                     <li><a href="contact">Contact Us</a></li>
                                 </ul>
                             </li>
-                        </ul>        
+                        </ul>   
                         <a class='menu-trigger'>
                             <span>Menu</span>
                         </a>
@@ -91,10 +90,10 @@ https://templatemo.com/tm-571-hexashop
                     <div class="left-content">
                         <div class="thumb">
                             <div class="inner-content">
-                                <h4>We Are bestquality.in</h4>
+                                <h4>bestquality.in</h4>
                                 <!-- <span>Awesome, clean &amp; creative HTML5 Template</span> -->
                                 <div class="main-border-button">
-                                    <a href="https://linktr.ee/Bestquality.in">Purchase Now!</a>
+                                    <a href="https://shope.ee/9p3RXXzTU0">Purchase Now!</a>
                                 </div>
                             </div>
                             <img src="assets/images/left-banner-image.jpg" alt="">
@@ -108,7 +107,7 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="right-first-image">
                                     <div class="thumb">
                                         <div class="inner-content">
-                                            <h4>Ring</h4>
+                                            <h4>Rings</h4>
                                             <span>Best Clothes For Women</span>
                                         </div>
                                         <div class="hover-content">
@@ -128,7 +127,7 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="right-first-image">
                                     <div class="thumb">
                                         <div class="inner-content">
-                                            <h4>Necklace</h4>
+                                            <h4>Necklaces</h4>
                                             <span>Best Clothes For Men</span>
                                         </div>
                                         <div class="hover-content">
@@ -148,7 +147,7 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="right-first-image">
                                     <div class="thumb">
                                         <div class="inner-content">
-                                            <h4>Bracelet</h4>
+                                            <h4>Bracelets</h4>
                                             <span>Best Clothes For Kids</span>
                                         </div>
                                         <div class="hover-content">
@@ -198,8 +197,8 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-6">
                     <div class="section-heading">
-                        <h2>Ring Latest</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <h2>Rings</h2>
+                        {{-- <span>Details to details is what makes Hexashop different from the other themes.</span> --}}
                     </div>
                 </div>
             </div>
@@ -213,16 +212,14 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="rings/fushia"><i class="fa fa-eye"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/men-01.jpg" alt="">
+                                    <img src="{{ asset('products/fushia_rings01.jpeg') }}" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Classic Spring</h4>
-                                    <span>$120.00</span>
+                                    <h4>Fushia Ring</h4>
+                                    <span>Rp29.000</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -236,16 +233,14 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="rings/zoeya"><i class="fa fa-eye"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/men-02.jpg" alt="">
+                                    <img src="{{ asset('products/zoeya_rings01.jpeg') }}" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Air Force 1 X</h4>
-                                    <span>$90.00</span>
+                                    <h4>Zoeya Ring</h4>
+                                    <span>Rp15.890 - Rp19.800</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -259,16 +254,14 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="rings/eliora"><i class="fa fa-eye"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/men-03.jpg" alt="">
+                                    <img src="{{ asset('products/eliora_rings01.jpeg') }}" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Love Nana ‘20</h4>
-                                    <span>$150.00</span>
+                                    <h4>Eliora Ring</h4>
+                                    <span>Rp13.153 - Rp16.999</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -282,16 +275,14 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="rings/leora"><i class="fa fa-eye"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/men-01.jpg" alt="">
+                                    <img src="{{ asset('products/leora_rings01.jpeg') }}" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Classic Spring</h4>
-                                    <span>$120.00</span>
+                                    <h4>Leora Ring</h4>
+                                    <span>Rp15.700 - Rp18.700</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -315,8 +306,8 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-6">
                     <div class="section-heading">
-                        <h2>Necklace Latest</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <h2>Necklaces</h2>
+                        {{-- <span>Details to details is what makes Hexashop different from the other themes.</span> --}}
                     </div>
                 </div>
             </div>
@@ -432,8 +423,8 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-6">
                     <div class="section-heading">
-                        <h2>Bracelet Latest</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <h2>Bracelets</h2>
+                        {{-- <span>Details to details is what makes Hexashop different from the other themes.</span> --}}
                     </div>
                 </div>
             </div>
@@ -571,7 +562,7 @@ https://templatemo.com/tm-571-hexashop
                     <ul>
                         <li><a href="/">Homepage</a></li>
                         <li><a href="about">About Us</a></li>
-                        <li><a href="products">Products</a></li>
+                        <li><a href="product">Products</a></li>
                         <li><a href="contact">Contact Us</a></li>
                     </ul>
                 </div>
