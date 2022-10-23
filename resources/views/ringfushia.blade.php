@@ -13,15 +13,15 @@
 
 
     <!-- Additional CSS Files -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/font-awesome.css') }}">
+    <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
 
-    <link rel="stylesheet" href="{{ asset('assets/css/templatemo-hexashop.css') }}">
+    <link rel="stylesheet" href="assets/css/templatemo-hexashop.css">
 
-    <link rel="stylesheet" href="{{ asset('assets/css/owl-carousel.css') }}">
+    <link rel="stylesheet" href="assets/css/owl-carousel.css">
 
-    <link rel="stylesheet" href="{{ asset('assets/css/lightbox.css') }}">
+    <link rel="stylesheet" href="assets/css/lightbox.css">
 <!--
 
 TemplateMo 571 Hexashop
@@ -52,7 +52,7 @@ https://templatemo.com/tm-571-hexashop
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
                         <a href="/" class="logo">
-                            <img src="{{ asset('logo.png') }}" width="195" height="59">
+                            <img src="logo.png" width="195" height="59">
                         </a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
@@ -90,8 +90,8 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-8">
                 <div class="left-images">
-                    <img src="{{ asset('products/fushia_rings01.jpeg') }}">
-                    <img src="{{ asset('products/fushia_rings02.jpeg') }}">
+                    <img src="products/fushia_rings01.jpeg">
+                    <img src="products/fushia_rings02.jpeg">
                 </div>
             </div>
             <div class="col-lg-4">
@@ -131,7 +131,7 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-4">
                     <div class="first-item">
                         <div class="logo">
-                            <img src="{{ asset('logo-putih.png') }}" alt="bestquality.in" width="195" height="59">
+                            <img src="logo-putih.png" alt="bestquality.in" width="195" height="59">
                         </div>
                         <ul>
                             <li><a href="#">Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta</a></li>
@@ -167,27 +167,27 @@ https://templatemo.com/tm-571-hexashop
     
 
     <!-- jQuery -->
-    <script src="{{ asset('assets/js/jquery-2.1.0.min.js') }}"></script>
+    <script src="assets/js/jquery-2.1.0.min.js"></script>
 
     <!-- Bootstrap -->
-    <script src="{{ asset('assets/js/popper.js') }}"></script>
-    <script src="{{ asset('assets/js/bootstrap.min.js') }}"></script>
+    <script src="assets/js/popper.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
 
     <!-- Plugins -->
-    <script src="{{ asset('assets/js/owl-carousel.js') }}"></script>
-    <script src="{{ asset('assets/js/accordions.js') }}"></script>
-    <script src="{{ asset('assets/js/datepicker.js') }}"></script>
-    <script src="{{ asset('assets/js/scrollreveal.min.js') }}"></script>
-    <script src="{{ asset('assets/js/waypoints.min.js') }}"></script>
-    <script src="{{ asset('assets/js/jquery.counterup.min.js') }}"></script>
-    <script src="{{ asset('assets/js/imgfix.min.js') }}"></script> 
-    <script src="{{ asset('assets/js/slick.js') }}"></script> 
-    <script src="{{ asset('assets/js/lightbox.js') }}"></script> 
-    <script src="{{ asset('assets/js/isotope.js') }}"></script> 
-    <script src="{{ asset('assets/js/quantity.js') }}"></script>
+    <script src="assets/js/owl-carousel.js"></script>
+    <script src="assets/js/accordions.js"></script>
+    <script src="assets/js/datepicker.js"></script>
+    <script src="assets/js/scrollreveal.min.js"></script>
+    <script src="assets/js/waypoints.min.js"></script>
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <script src="assets/js/imgfix.min.js"></script> 
+    <script src="assets/js/slick.js"></script> 
+    <script src="assets/js/lightbox.js"></script> 
+    <script src="assets/js/isotope.js"></script> 
+    <script src="assets/js/quantity.js"></script>
     
     <!-- Global Init -->
-    <script src="{{ asset('assets/js/custom.js') }}"></script>
+    <script src=" assets/js/custom.js"></script>
 
     <script>
 
