@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\URL;
 
 /*
 |--------------------------------------------------------------------------
@@ -70,3 +71,5 @@ Route::get('/bracelets/noura', function () {
 Route::get('/bracelets/emma', function () {
     return view('bracemma');
 });
+
+URL::forceScheme('https');
