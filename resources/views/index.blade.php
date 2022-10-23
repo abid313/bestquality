@@ -321,16 +321,14 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="necklaces/qiana"><i class="fa fa-eye"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/women-01.jpg" alt="">
+                                    <img src="{{ asset('products/qiana_necks01.jpeg') }}" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>New Green Jacket</h4>
-                                    <span>$75.00</span>
+                                    <h4>Qiana Necklace</h4>
+                                    <span>Rp89.000</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -344,16 +342,14 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="necklaces/daisy"><i class="fa fa-eye"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/women-02.jpg" alt="">
+                                    <img src="{{ asset('products/daisy_necks01.jpeg') }}" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Classic Dress</h4>
-                                    <span>$45.00</span>
+                                    <h4>Daisy Necklace</h4>
+                                    <span>Rp45.000 - Rp49.000</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -367,39 +363,14 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="necklaces/dandelion"><i class="fa fa-eye"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/women-03.jpg" alt="">
+                                    <img src="{{ asset('products/dandelion_necks01.jpeg') }}" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Spring Collection</h4>
-                                    <span>$130.00</span>
-                                    <ul class="stars">
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="thumb">
-                                    <div class="hover-content">
-                                        <ul>
-                                            <li><a href="single-product"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-shopping-cart"></i></a></li>
-                                        </ul>
-                                    </div>
-                                    <img src="assets/images/women-01.jpg" alt="">
-                                </div>
-                                <div class="down-content">
-                                    <h4>Classic Spring</h4>
-                                    <span>$120.00</span>
+                                    <h4>Dandelion Collection</h4>
+                                    <span>Rp26.000</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -438,16 +409,14 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="bracelets/noura"><i class="fa fa-eye"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/kid-01.jpg" alt="">
+                                    <img src="{{ asset('products/noura_bracs01.jpeg') }}" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>School Collection</h4>
-                                    <span>$80.00</span>
+                                    <h4>Noura Bracelet</h4>
+                                    <span>Rp78.000</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -461,62 +430,14 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="bracelets/emma"><i class="fa fa-eye"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/kid-02.jpg" alt="">
+                                    <img src="{{ asset('products/emma_bracs01.jpeg') }}" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Summer Cap</h4>
-                                    <span>$12.00</span>
-                                    <ul class="stars">
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="thumb">
-                                    <div class="hover-content">
-                                        <ul>
-                                            <li><a href="single-product"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-shopping-cart"></i></a></li>
-                                        </ul>
-                                    </div>
-                                    <img src="assets/images/kid-03.jpg" alt="">
-                                </div>
-                                <div class="down-content">
-                                    <h4>Classic Kid</h4>
-                                    <span>$30.00</span>
-                                    <ul class="stars">
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="thumb">
-                                    <div class="hover-content">
-                                        <ul>
-                                            <li><a href="single-product"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product"><i class="fa fa-shopping-cart"></i></a></li>
-                                        </ul>
-                                    </div>
-                                    <img src="assets/images/kid-01.jpg" alt="">
-                                </div>
-                                <div class="down-content">
-                                    <h4>Classic Spring</h4>
-                                    <span>$120.00</span>
+                                    <h4>Emma Bracelet</h4>
+                                    <span>Rp39.000 - Rp43.000</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>

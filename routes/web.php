@@ -46,3 +46,27 @@ Route::get('/rings/eliora', function () {
 Route::get('/rings/leora', function () {
     return view('ringleora');
 });
+
+// necklaces product
+
+Route::get('/necklaces/qiana', function () {
+    return view('neckqiana');
+});
+
+Route::get('/necklaces/daisy', function () {
+    return view('neckdaisy');
+});
+
+Route::get('/necklaces/dandelion', function () {
+    return view('neckdandelion');
+});
+
+// bracelets product
+
+Route::get('/bracelets/noura', function () {
+    return view('bracnoura');
+});
+
+Route::get('/bracelets/emma', function () {
+    return view('bracemma');
+});
