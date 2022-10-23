@@ -13,15 +13,15 @@
 
 
     <!-- Additional CSS Files -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/') }}/bootstrap.min.css">
 
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/font-awesome.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/') }}/font-awesome.css">
 
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/templatemo-hexashop.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/') }}/templatemo-hexashop.css">
 
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/owl-carousel.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/') }}/owl-carousel.css">
 
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/lightbox.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/') }}/lightbox.css">
 <!--
 
 TemplateMo 571 Hexashop
