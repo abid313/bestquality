@@ -302,7 +302,7 @@ https://templatemo.com/tm-571-hexashop
                                             </div>
                                         </div>
                                     </div>
-                                    <img src="{{ asset('products/morerings.jpeg') }}" alt="">
+                                    <img src="{{ asset('products/morerings.jpg') }}" alt="">
                                 </div>
                                 <div class="down-content">
                                     <h4>Discover More</h4>
