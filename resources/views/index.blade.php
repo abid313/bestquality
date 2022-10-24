@@ -292,6 +292,30 @@ https://templatemo.com/tm-571-hexashop
                                     </ul>
                                 </div>
                             </div>
+                            {{-- more rings --}}
+                            <div class="item">
+                                <div class="thumb">
+                                    <div class="hover-content">
+                                        <div class="inner">
+                                            <div class="main-border-button">
+                                                <a href="rings">Discover More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <img src="{{ asset('products/morerings.jpeg') }}" alt="">
+                                </div>
+                                <div class="down-content">
+                                    <h4>Discover More</h4>
+                                    {{-- <span></span> --}}
+                                    {{-- <ul class="stars">
+                                        <li><i class="fa fa-star"></i></li>
+                                        <li><i class="fa fa-star"></i></li>
+                                        <li><i class="fa fa-star"></i></li>
+                                        <li><i class="fa fa-star"></i></li>
+                                        <li><i class="fa fa-star"></i></li>
+                                    </ul> --}}
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
