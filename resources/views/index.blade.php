@@ -59,10 +59,10 @@ https://templatemo.com/tm-571-hexashop
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
                             <li class="scroll-to-section"><a href="/" class="active">Home</a></li>
-                            <li class="scroll-to-section"><a href="/">Rings</a></li>
-                            <li class="scroll-to-section"><a href="/">Necklaces</a></li>
-                            <li class="scroll-to-section"><a href="/">Bracelets</a></li>
-                            <li class="scroll-to-section"><a href="product">Products</a></li>
+                            <li class="scroll-to-section"><a href="rings">Rings</a></li>
+                            <li class="scroll-to-section"><a href="necklaces">Necklaces</a></li>
+                            <li class="scroll-to-section"><a href="bracelets">Bracelets</a></li>
+                            <li class="scroll-to-section"><a href="product">All Products</a></li>
                             <li class="submenu">
                                 <a href="javascript:;">Other</a>
                                 <ul>
@@ -108,18 +108,18 @@ https://templatemo.com/tm-571-hexashop
                                     <div class="thumb">
                                         <div class="inner-content">
                                             <h4>Rings</h4>
-                                            <span>Best Clothes For Women</span>
+                                            {{-- <span>Best Clothes For Women</span> --}}
                                         </div>
                                         <div class="hover-content">
                                             <div class="inner">
-                                                <h4>Ring</h4>
-                                                <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
+                                                {{-- <h4>Rings</h4> --}}
+                                                {{-- <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p> --}}
                                                 <div class="main-border-button">
-                                                    <a href="#">Discover More</a>
+                                                    <a href="rings">Discover More</a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <img src="{{ asset('assets/images/baner-right-image-01.jpg') }}">
+                                        <img src="{{ asset('products/bannereliora_rings02.png') }}">
                                     </div>
                                 </div>
                             </div>
@@ -128,18 +128,18 @@ https://templatemo.com/tm-571-hexashop
                                     <div class="thumb">
                                         <div class="inner-content">
                                             <h4>Necklaces</h4>
-                                            <span>Best Clothes For Men</span>
+                                            {{-- <span>Best Clothes For Men</span> --}}
                                         </div>
                                         <div class="hover-content">
                                             <div class="inner">
-                                                <h4>Necklace</h4>
-                                                <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
+                                                {{-- <h4>Necklaces</h4> --}}
+                                                {{-- <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p> --}}
                                                 <div class="main-border-button">
-                                                    <a href="#">Discover More</a>
+                                                    <a href="necklaces">Discover More</a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <img src="{{ asset('assets/images/baner-right-image-02.jpg') }}">
+                                        <img src="{{ asset('products/bannerqiana_necks02.png') }}">
                                     </div>
                                 </div>
                             </div>
@@ -148,18 +148,18 @@ https://templatemo.com/tm-571-hexashop
                                     <div class="thumb">
                                         <div class="inner-content">
                                             <h4>Bracelets</h4>
-                                            <span>Best Clothes For Kids</span>
+                                            {{-- <span>Best Clothes For Kids</span> --}}
                                         </div>
                                         <div class="hover-content">
                                             <div class="inner">
-                                                <h4>Bracelet</h4>
-                                                <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
+                                                {{-- <h4>Bracelets</h4> --}}
+                                                {{-- <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p> --}}
                                                 <div class="main-border-button">
-                                                    <a href="#">Discover More</a>
+                                                    <a href="bracelets">Discover More</a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <img src="{{ asset('assets/images/baner-right-image-03.jpg') }}">
+                                        <img src="{{ asset('products/banneremma_bracs02.png') }}">
                                     </div>
                                 </div>
                             </div>
@@ -168,14 +168,14 @@ https://templatemo.com/tm-571-hexashop
                                     <div class="thumb">
                                         <div class="inner-content">
                                             <h4>All Products</h4>
-                                            <span>Best Trend Accessories</span>
+                                            {{-- <span>Best Trend Accessories</span> --}}
                                         </div>
                                         <div class="hover-content">
                                             <div class="inner">
-                                                <h4>All Products</h4>
-                                                <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
+                                                {{-- <h4>All Products</h4> --}}
+                                                {{-- <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p> --}}
                                                 <div class="main-border-button">
-                                                    <a href="#">Discover More</a>
+                                                    <a href="product">Discover More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -393,7 +393,7 @@ https://templatemo.com/tm-571-hexashop
                                     <img src="{{ asset('products/dandelion_necks01.jpeg') }}" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Dandelion Collection</h4>
+                                    <h4>Dandelion Necklace</h4>
                                     <span>Rp26.000</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
@@ -402,6 +402,30 @@ https://templatemo.com/tm-571-hexashop
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
                                     </ul>
+                                </div>
+                            </div>
+                            {{-- more necklaces --}}
+                            <div class="item">
+                                <div class="thumb">
+                                    <div class="hover-content">
+                                        <div class="inner">
+                                            <div class="main-border-button">
+                                                <a href="necklaces">Discover More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <img src="{{ asset('products/morenecklaces.jpg') }}" alt="">
+                                </div>
+                                <div class="down-content">
+                                    <h4>Discover More</h4>
+                                    {{-- <span></span> --}}
+                                    {{-- <ul class="stars">
+                                        <li><i class="fa fa-star"></i></li>
+                                        <li><i class="fa fa-star"></i></li>
+                                        <li><i class="fa fa-star"></i></li>
+                                        <li><i class="fa fa-star"></i></li>
+                                        <li><i class="fa fa-star"></i></li>
+                                    </ul> --}}
                                 </div>
                             </div>
                         </div>
@@ -469,6 +493,30 @@ https://templatemo.com/tm-571-hexashop
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
                                     </ul>
+                                </div>
+                            </div>
+                            {{-- more bracelets --}}
+                            <div class="item">
+                                <div class="thumb">
+                                    <div class="hover-content">
+                                        <div class="inner">
+                                            <div class="main-border-button">
+                                                <a href="bracelets">Discover More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <img src="{{ asset('products/morebracelets.jpg') }}" alt="">
+                                </div>
+                                <div class="down-content">
+                                    <h4>Discover More</h4>
+                                    {{-- <span></span> --}}
+                                    {{-- <ul class="stars">
+                                        <li><i class="fa fa-star"></i></li>
+                                        <li><i class="fa fa-star"></i></li>
+                                        <li><i class="fa fa-star"></i></li>
+                                        <li><i class="fa fa-star"></i></li>
+                                        <li><i class="fa fa-star"></i></li>
+                                    </ul> --}}
                                 </div>
                             </div>
                         </div>

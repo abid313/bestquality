@@ -26,6 +26,18 @@ Route::get('/product', function () {
     return view('product');
 });
 
+Route::get('/rings', function () {
+    return view('ring');
+});
+
+Route::get('/bracelets', function () {
+    return view('bracelet');
+});
+
+Route::get('/necklaces', function () {
+    return view('necklace');
+});
+
 Route::get('/contact', function () {
     return view('contact');
 });
@@ -72,4 +84,5 @@ Route::get('/bracelets/emma', function () {
     return view('bracemma');
 });
 
+// using this for development
 URL::forceScheme('https');
